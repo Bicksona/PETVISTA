@@ -56,12 +56,6 @@ emailjs.init({ publicKey: "YOUR_PUBLIC_KEY" });
 
 ---
 
-## 📷 Screenshots
-
-*(Add screenshots of Home page, Services, Product Carousel, and Contact Form here if available)*
-
----
-
 ## 📦 How to Run
 
 1. Clone or download this repository.
@@ -79,4 +73,4 @@ This project is open-source and free to use for educational or personal purposes
 
 ## 💡 Author
 
-Developed by **[Your Name Here]**
+Developed by **[Bickson]**
